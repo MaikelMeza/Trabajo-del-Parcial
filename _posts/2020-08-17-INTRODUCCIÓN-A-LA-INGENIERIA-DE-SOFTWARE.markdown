@@ -20,7 +20,27 @@ Ingeniería de software es la aplicación práctica del conocimiento científico
 -	F las restricciones del desarrollo 
 -	y F los recursos disponibles.
 
-**¿Cual es la diferencia entre Ingeniería de Software y Ciencias Computacionales?**
+## ¿Cual es la diferencia entre Ingeniería de Software y Ciencias Computacionales?
+
 •	Las Ciencias Computacionales conciernen a la teoría y fundamentos de cualquier sistema de cómputo (hardware o software). 
 •	La Ingeniería de Software concierne los aspectos prácticos del desarrollo y puesta en marcha de productos útiles de software. 
 •	La Ingeniería de Software aún está lejos de ser considerada una ciencia como los son la química o la física.
+
+## Las crisis del software
+
+Actualmente en los sistemas basados en computadores, el software ha superado al hardware como factor decisivo de éxito. Sin embargo, muchos proyectos de software presentan deficiencias como:
+
+-Retraso en la entrega
+-Falta de fiabilidad 
+-Coste excesivo 
+-Ineficiencia
+-Mantenimiento problemático 
+-Falta de adaptabilidad
+-Escasa portabilidad
+-Carencia de documentación
+
+Su principal problema rige en la mala comunicación con el cliente y la mala comunicación que existe en el equipo de desarrollo.
+
+## Calidad de un Software
+
+El software debe proveer la funcionalidad y desempeño requeridos por el usuario y debe ser mantenible, confiable y aceptable. Por lo tanto debe contar con los siguientes atributos.
