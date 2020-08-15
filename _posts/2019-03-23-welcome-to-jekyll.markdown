@@ -1,6 +1,5 @@
 ---
 layout: post
-          title:"INTRODUCCIÓN A LA INGENIERIA DE SOFTWARE"
 title: "¿Que es Software?"
 date:   2020/08/17 21:00:36 +0530
 
