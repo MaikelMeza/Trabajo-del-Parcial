@@ -2,14 +2,14 @@
 # -title: "INTRODUCCIÓN A LA INGENIERIA DE SOFTWARE"
 
 ---
-**## ¿QUE ES SOFTWARE?**
+## ¿QUE ES SOFTWARE?
 
 El software es el conjunto de instrucciones que una computadora debe seguir,es decir, todas aquellas indicaciones sobre lo que tiene que hacer y cómo.
 El software puede ser genérico o ad hoc.
 -	**Genérico**: desarrollado para venderse a múltiples clientes (Excel, Word, etc.).
 -	**Ad hoc**: desarrollado bajo demanda del cliente a un desarrollador específico.
 
-**## ¿QUE ES LA INGENÍERIA DE SOFTWARE?**
+## ¿QUE ES LA INGENÍERIA DE SOFTWARE?
 
 Ingeniería de software es la aplicación práctica del conocimiento científico al diseño y construcción de programas de computadora y a la documentación asociada requerida                                   para desarrollar, operar y mantenerlos. Se conoce también como desarrollo de software o producción de software (Bohem, 1976).
 
@@ -17,13 +17,13 @@ Ingeniería de software es la aplicación práctica del conocimiento científico
 
 -	Adoptar un enfoque sistemático para llevar a cabo su trabajo
 -	Utilizar las herramientas y técnicas más apropiadas dependiendo:
-- 	del problema a resolver, 
-- 	las restricciones del desarrollo 
-- 	F los recursos disponibles.
+    - Del problema a resolver. 
+    - Las restricciones del desarrollo 
+    - Los recursos disponibles.
 
-**## ¿CUAL ES LA DIFERENCIA ENTRE INGENIERÍA DE SOFTWARE Y CIENCIAS COMPUTACIONALES?** 
 <body>
-  <p style="color:DodgerBlue;">DodgerBlue paragraph text</p>
+  <p style="##color:DarkBlue;"> ¿CUAL ES LA DIFERENCIA ENTRE INGENIERÍA DE SOFTWARE Y CIENCIAS COMPUTACIONALES? </p>
+  
 </body>
 
 -	Las Ciencias Computacionales conciernen a la teoría y fundamentos de cualquier sistema de cómputo (hardware o software). 
