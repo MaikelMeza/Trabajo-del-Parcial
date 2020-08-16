@@ -98,7 +98,7 @@ Estas actividades varían dependiendo de la organización y del tipo de sistema 
 El modelo de proceso de software es una plantilla o un patrón que define el proceso por el cual se procesara el software, por lo tanto, es un apoyo para que el desarrollador pueda definir la estrategia que usara para desarrollar el Software. Los modelos de proceso de software se definen a continuación:
 
 <body>
-    <h3> <p style="color:#0f64ad;">Modelos tradicionales  </p> </h2>
+    <h3> <p style="color:#0f64ad;">Modelos tradicionales  </p> </h3>
 </body>
 
 Formados por un conjunto de fases o actividades en las que no tienen en cuenta la naturaleza evolutiva del software. 
@@ -109,8 +109,9 @@ Formados por un conjunto de fases o actividades en las que no tienen en cuenta l
 - Desarrollo rápido de aplicaciones (RAD).
 
 <body>
-    <h3> <p style="color:#0f64ad;">Modelos evolutivos </p> </h2>
+    <h3> <p style="color:#0f64ad;">Modelos evolutivos </p> </h3>
 </body>
+
 Son modelos que se adaptan a la evolución que sufren los requisitos del sistema en función del tiempo.
 
 - Incremental. 
@@ -118,7 +119,7 @@ Son modelos que se adaptan a la evolución que sufren los requisitos del sistema
 - En espiral.
 
 <body>
-    <h3> <p style="color:#0f64ad;">Modelos para sistemas orientados a objetos </p> </h2>
+    <h3> <p style="color:#0f64ad;">Modelos para sistemas orientados a objetos </p> </h3>
 </body>
 
 Modelos con un alto grado de iteratividad y solapamiento entre fases.
@@ -127,7 +128,7 @@ Modelos con un alto grado de iteratividad y solapamiento entre fases.
 - Proceso Unificado.
 
 <body>
-    <h3> <p style="color:#0f64ad;">Modelos basados en reutilización </p> </h2>
+    <h3> <p style="color:#0f64ad;">Modelos basados en reutilización </p> </h3>
 </body>
 
 Tienen en cuenta la reutilización sistemática del software.
@@ -136,7 +137,7 @@ Tienen en cuenta la reutilización sistemática del software.
 - Proceso Unificado.
 
 <body>
-    <h3> <p style="color:#0f64ad;">Procesos agiles </p> </h2>
+    <h3> <p style="color:#0f64ad;">Procesos agiles </p> </h3>
 </body>
 
 Enfatizan el desarrollo rápido, ponen el énfasis en la programación
@@ -147,7 +148,7 @@ Enfatizan el desarrollo rápido, ponen el énfasis en la programación
 - Crystal
 
 <body>
-    <h3> <p style="color:#0f64ad;">Modelos para sistemas web  </p> </h2>
+    <h3> <p style="color:#0f64ad;">Modelos para sistemas web  </p> </h3>
 </body>
 
 Creados específicamente para el desarrollo de aplicaciones web
