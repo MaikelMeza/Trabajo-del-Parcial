@@ -3,7 +3,7 @@
 
 ---
 <body>
-    <h2> <p style="color:DarkBlue;">¿QUE ES SOFTWARE? </p> </h2>
+    <h2> <p style="color:#1fc9d0;">¿QUE ES SOFTWARE? </p> </h2>
 </body>
 
 El software es el conjunto de instrucciones que una computadora debe seguir,es decir, todas aquellas indicaciones sobre lo que tiene que hacer y cómo.
@@ -12,7 +12,7 @@ El software puede ser genérico o ad hoc.
 -	**Ad hoc**: desarrollado bajo demanda del cliente a un desarrollador específico.
 
 <body>
-    <h2> <p style="color:DarkBlue;">¿QUE ES LA INGENÍERIA DE SOFTWARE? </p> </h2>
+    <h2> <p style="color:#1fc9d0;">¿QUE ES LA INGENÍERIA DE SOFTWARE? </p> </h2>
 </body>
 
 Ingeniería de software es la aplicación práctica del conocimiento científico al diseño y construcción de programas de computadora y a la documentación asociada requerida                                   para desarrollar, operar y mantenerlos. Se conoce también como desarrollo de software o producción de software (Bohem, 1976).
@@ -26,7 +26,7 @@ Ingeniería de software es la aplicación práctica del conocimiento científico
     - Los recursos disponibles.
     
 <body>
-    <h2> <p style="color:DarkBlue;">¿CUAL ES LA DIFERENCIA ENTRE INGENIERÍA DE SOFTWARE Y CIENCIAS COMPUTACIONALES? </p> </h2>
+    <h2> <p style="color:#1fc9d0;">¿CUAL ES LA DIFERENCIA ENTRE INGENIERÍA DE SOFTWARE Y CIENCIAS COMPUTACIONALES? </p> </h2>
 </body>
 
 -	Las Ciencias Computacionales conciernen a la teoría y fundamentos de cualquier sistema de cómputo (hardware o software). 
@@ -34,7 +34,7 @@ Ingeniería de software es la aplicación práctica del conocimiento científico
 -	La Ingeniería de Software aún está lejos de ser considerada una ciencia como los son la química o la física.
 
 <body>
-    <h2> <p style="color:DarkBlue;">LA CRISIS DEL SOFTWARE </p> </h2>
+    <h2> <p style="color:#1fc9d0;">LA CRISIS DEL SOFTWARE </p> </h2>
 </body>
 
 Actualmente en los sistemas basados en computadores, el software ha superado al hardware como factor decisivo de éxito. Sin embargo, muchos proyectos de software presentan deficiencias como:
@@ -51,7 +51,7 @@ Actualmente en los sistemas basados en computadores, el software ha superado al 
 Su principal problema rige en la mala comunicación con el cliente y la mala comunicación que existe en el equipo de desarrollo.
 
 <body>
-    <h2> <p style="color:DarkBlue;">CALIDAD DE UN SOFTWARE </p> </h2>
+    <h2> <p style="color:#1fc9d0;">CALIDAD DE UN SOFTWARE </p> </h2>
 </body>
 
 El software debe proveer la funcionalidad y desempeño requeridos por el usuario y debe ser mantenible, confiable y aceptable. Por lo tanto debe contar con los siguientes atributos.
@@ -63,7 +63,7 @@ El software debe proveer la funcionalidad y desempeño requeridos por el usuario
 -	Software de sistema: software para servir a otros programas (SO, compiladores. . . ).
 
 <body>
-    <h2> <p style="color:DarkBlue;">CICLO DE VIDA DE UN SOFTWARE </p> </h2>
+    <h2> <p style="color:#1fc9d0;">CICLO DE VIDA DE UN SOFTWARE </p> </h2>
 </body>
 
 Todo desarrollo de un software está vinculado a un ciclo de vida el cual está compuesto por una secuencia de fases, que está anclado desde el instante en que emerge la idea de crear un software, hasta el momento en el que dicho software es reemplazado o desechado por el usuario.
@@ -71,7 +71,7 @@ Todo desarrollo de un software está vinculado a un ciclo de vida el cual está 
 Por esta razón los programadores siempre están al pendiente de las necesidades, inquietudes, molestias y disgustos de los usuarios para poder corregir y mejorar el software de su programa.
 
 <body>
-    <h2> <p style="color:DarkBlue;">PROCESO DEL SOFTWARE </p> </h2>
+    <h2> <p style="color:#1fc9d0;">PROCESO DEL SOFTWARE </p> </h2>
 </body>
 
 La meta de la ingeniería de software es construir productos de software, o mejorar los existentes; en ingeniería de procesos, la meta es desarrollar o mejorar procesos. Los procesos de desarrollo de software son un conjunto de pasos que están preestablecidos, y deben ser aplicados en la creación del software.
