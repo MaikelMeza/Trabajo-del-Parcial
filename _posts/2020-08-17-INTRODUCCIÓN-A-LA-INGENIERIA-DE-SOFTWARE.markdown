@@ -1,7 +1,3 @@
----
-# -title: "INTRODUCCIÓN A LA INGENIERIA DE SOFTWARE"
-
----
 
 <body>
     <h2> <p style="color:#0f64ad;">¿QUE ES SOFTWARE? </p> </h2>
@@ -12,7 +8,6 @@ El software puede ser genérico o ad hoc.
 -	**Genérico**: desarrollado para venderse a múltiples clientes (Excel, Word, etc.).
 -	**Ad hoc**: desarrollado bajo demanda del cliente a un desarrollador específico.
 
----
 <body>
     <h2> <p style="color:#0f64ad;">¿QUE ES LA INGENÍERIA DE SOFTWARE? </p> </h2>
 </body>
