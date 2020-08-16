@@ -38,6 +38,8 @@ Ingeniería de software es la aplicación práctica del conocimiento científico
 
 Actualmente en los sistemas basados en computadores, el software ha superado al hardware como factor decisivo de éxito. Sin embargo, muchos proyectos de software presentan deficiencias como:
 
+![](/Trabajo-del-Parcial/assets/img2.png)
+
 - Retraso en la entrega
 - Falta de fiabilidad 
 - Coste excesivo 
@@ -47,7 +49,7 @@ Actualmente en los sistemas basados en computadores, el software ha superado al 
 - Escasa portabilidad
 - Carencia de documentación
 
-![]( Trabajo-del-Parcial/assets/img2.png)
+
 
 Su principal problema rige en la mala comunicación con el cliente y la mala comunicación que existe en el equipo de desarrollo.
 
@@ -56,7 +58,8 @@ Su principal problema rige en la mala comunicación con el cliente y la mala com
 </body>
 
 El software debe proveer la funcionalidad y desempeño requeridos por el usuario y debe ser mantenible, confiable y aceptable. Por lo tanto debe contar con los siguientes atributos.
-![]( Trabajo-del-Parcial/assets/img3.png)
+
+![](/Trabajo-del-Parcial/assets/img3.png)
 
 <body>
     <h2> <p style="color:#0f64ad;">TIPOS DE SOFTWARE </p> </h2>
