@@ -2,31 +2,35 @@
 # -title: "INTRODUCCIÓN A LA INGENIERIA DE SOFTWARE"
 
 ---
-## "¿QUE ES SOFTWARE?"
----
+**## ¿QUE ES SOFTWARE?**
+
 El software es el conjunto de instrucciones que una computadora debe seguir,es decir, todas aquellas indicaciones sobre lo que tiene que hacer y cómo.
 El software puede ser genérico o ad hoc.
 -	**Genérico**: desarrollado para venderse a múltiples clientes (Excel, Word, etc.).
 -	**Ad hoc**: desarrollado bajo demanda del cliente a un desarrollador específico.
----
-## ¿Que es la Ingeniería de Software?
 
-Ingeniería de software es la aplicación práctica del conocimiento científico al diseño y construcción de programas de computadora y a la documentación asociada requerida para desarrollar, operar y mantenerlos. Se conoce también como desarrollo de software o producción de software (Bohem, 1976).
+**## ¿QUE ES LA INGENÍERIA DE SOFTWARE?**
+
+Ingeniería de software es la aplicación práctica del conocimiento científico al diseño y construcción de programas de computadora y a la documentación asociada requerida                                   para desarrollar, operar y mantenerlos. Se conoce también como desarrollo de software o producción de software (Bohem, 1976).
 
 **Los Ingenieros de Software deben:**
+
 -	Adoptar un enfoque sistemático para llevar a cabo su trabajo
--	Utilizar las herramientas y técnicas más apropiadas dependiendo
--	F del problema a resolver, 
--	F las restricciones del desarrollo 
--	y F los recursos disponibles.
----
-## ¿Cual es la diferencia entre Ingeniería de Software y Ciencias Computacionales?
+-	Utilizar las herramientas y técnicas más apropiadas dependiendo:
+- 	del problema a resolver, 
+- 	las restricciones del desarrollo 
+- 	F los recursos disponibles.
+
+**## ¿CUAL ES LA DIFERENCIA ENTRE INGENIERÍA DE SOFTWARE Y CIENCIAS COMPUTACIONALES?** 
+<body>
+  <p style="color:DodgerBlue;">DodgerBlue paragraph text</p>
+</body>
 
 -	Las Ciencias Computacionales conciernen a la teoría y fundamentos de cualquier sistema de cómputo (hardware o software). 
 -	La Ingeniería de Software concierne los aspectos prácticos del desarrollo y puesta en marcha de productos útiles de software. 
 -	La Ingeniería de Software aún está lejos de ser considerada una ciencia como los son la química o la física.
----
-## Las crisis del software
+
+## LA CRISIS DEL SOFTWARE
 
 Actualmente en los sistemas basados en computadores, el software ha superado al hardware como factor decisivo de éxito. Sin embargo, muchos proyectos de software presentan deficiencias como:
 
@@ -40,8 +44,8 @@ Actualmente en los sistemas basados en computadores, el software ha superado al 
 - Carencia de documentación
 
 Su principal problema rige en la mala comunicación con el cliente y la mala comunicación que existe en el equipo de desarrollo.
----
-## Calidad de un Software
+
+## CALIDAD DE UN SOFTWARE
 
 El software debe proveer la funcionalidad y desempeño requeridos por el usuario y debe ser mantenible, confiable y aceptable. Por lo tanto debe contar con los siguientes atributos.
 -	Sistemas de Información: orientados a la gestión de información en empresas para tratar sus operaciones o servicios de negocio. 
@@ -50,14 +54,14 @@ El software debe proveer la funcionalidad y desempeño requeridos por el usuario
 -	Sistemas expertos: basados en técnicas de IA Sistemas de computación personal: para uso personal o negocio (juegos, procesamiento de texto, · · ·). 
 -	Sistemas de tiempo real: monitorizar y analizar eventos.
 -	Software de sistema: software para servir a otros programas (SO, compiladores. . . ).
----
-## CICLO DE VIDA DEL SOFTWARE
+
+## CICLO DE VIDA DE UN SOFTWARE
 
 Todo desarrollo de un software está vinculado a un ciclo de vida el cual está compuesto por una secuencia de fases, que está anclado desde el instante en que emerge la idea de crear un software, hasta el momento en el que dicho software es reemplazado o desechado por el usuario.
 
 Por esta razón los programadores siempre están al pendiente de las necesidades, inquietudes, molestias y disgustos de los usuarios para poder corregir y mejorar el software de su programa.
----
-## Proceso de software
+
+## PROCESO DEL SOFTWARE
 
 La meta de la ingeniería de software es construir productos de software, o mejorar los existentes; en ingeniería de procesos, la meta es desarrollar o mejorar procesos. Los procesos de desarrollo de software son un conjunto de pasos que están preestablecidos, y deben ser aplicados en la creación del software.
 
@@ -75,8 +79,8 @@ Otra perspectiva utilizada para determinar los elementos del proceso de desarrol
 - **Cómo y Cuándo:** Las Actividades son una serie de pasos que lleva a cabo un rol durante el proceso de desarrollo. El avance del proyecto está controlado mediante hitos que establecen un determinado estado de terminación de ciertos artefactos.
 
 Estas actividades varían dependiendo de la organización y del tipo de sistema a desarrollarse. 
----
-## Modelo de proceso de software
+
+## MODELOS DE PROCESOS DE SOFTWARE
 
 El modelo de proceso de software es una plantilla o un patrón que define el proceso por el cual se procesara el software, por lo tanto, es un apoyo para que el desarrollador pueda definir la estrategia que usara para desarrollar el Software. Los modelos de proceso de software se definen a continuación:
 
