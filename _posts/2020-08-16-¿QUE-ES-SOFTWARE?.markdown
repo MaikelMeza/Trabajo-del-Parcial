@@ -1,5 +1,5 @@
 ---
-# -title: "¿QUE ES SOFTWARE?"
+# -title: "¿ QUE ES SOFTWARE ?"
 
 ---
 
