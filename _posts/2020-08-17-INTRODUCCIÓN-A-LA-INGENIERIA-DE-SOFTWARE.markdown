@@ -76,12 +76,9 @@ Por esta razón los programadores siempre están al pendiente de las necesidades
 
 La meta de la ingeniería de software es construir productos de software, o mejorar los existentes; en ingeniería de procesos, la meta es desarrollar o mejorar procesos. Los procesos de desarrollo de software son un conjunto de pasos que están preestablecidos, y deben ser aplicados en la creación del software.
 
-El proceso de desarrollo de software no es ´único. No existe un proceso de software universal que sea efectivo para todos los contextos de proyectos de desarrollo. Debido a esta diversidad, es difícil automatizar todo un proceso de desarrollo de software. Sin embargo, a pesar de la variedad de propuestas de proceso de software, existe un conjunto de actividades fundamentales que se encuentran presentes en todos ellos:
--
-<body>
-    <h2> <p style="color:#0f64ad;">CICLO DE VIDA DE UN SOFTWARE </p> </h2>
-    :que debe hacer el software y cuáles son sus especificaciones de desarrollo.
-</body> 
+El proceso de desarrollo de software no es único. No existe un proceso de software universal que sea efectivo para todos los contextos de proyectos de desarrollo. Debido a esta diversidad, es difícil automatizar todo un proceso de desarrollo de software. Sin embargo, a pesar de la variedad de propuestas de proceso de software, existe un conjunto de actividades fundamentales que se encuentran presentes en todos ellos:
+
+- **Especificación:** que debe hacer el software y cuáles son sus especificaciones de desarrollo.
 - **Desarrollo:** producción del sistema de software 
 - **Validación:** verificar que el software cumple con lo solicitado por el cliente. 
 - **Evolución:** cambiar/adaptar el software a las nuevas demandas 
