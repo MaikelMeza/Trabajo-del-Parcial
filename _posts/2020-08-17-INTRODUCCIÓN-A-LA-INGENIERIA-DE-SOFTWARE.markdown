@@ -22,7 +22,7 @@ Ingeniería de software es la aplicación práctica del conocimiento científico
     - Los recursos disponibles.
 
 <body>
-  <p style="##color:DarkBlue;"> ¿CUAL ES LA DIFERENCIA ENTRE INGENIERÍA DE SOFTWARE Y CIENCIAS COMPUTACIONALES? </p>
+  <p style="color:DarkBlue;"> ¿CUAL ES LA DIFERENCIA ENTRE INGENIERÍA DE SOFTWARE Y CIENCIAS COMPUTACIONALES? </p>
   
 </body>
 
