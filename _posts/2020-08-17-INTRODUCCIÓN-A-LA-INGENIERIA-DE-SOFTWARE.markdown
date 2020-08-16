@@ -1,11 +1,12 @@
 ---
 # -title: "INTRODUCCIÓN A LA INGENIERIA DE SOFTWARE"
+
 ---
 
 <body>
     <h2> <p style="color:#0f64ad;">¿QUE ES SOFTWARE? </p> </h2>
 </body>
----
+
 El software es el conjunto de instrucciones que una computadora debe seguir,es decir, todas aquellas indicaciones sobre lo que tiene que hacer y cómo.
 El software puede ser genérico o ad hoc.
 -	**Genérico**: desarrollado para venderse a múltiples clientes (Excel, Word, etc.).
@@ -15,7 +16,7 @@ El software puede ser genérico o ad hoc.
 <body>
     <h2> <p style="color:#0f64ad;">¿QUE ES LA INGENÍERIA DE SOFTWARE? </p> </h2>
 </body>
----
+
 
 Ingeniería de software es la aplicación práctica del conocimiento científico al diseño y construcción de programas de computadora y a la documentación asociada requerida                                   para desarrollar, operar y mantenerlos. Se conoce también como desarrollo de software o producción de software (Bohem, 1976).
 
