@@ -47,6 +47,8 @@ Actualmente en los sistemas basados en computadores, el software ha superado al 
 - Escasa portabilidad
 - Carencia de documentación
 
+![]( Trabajo-del-Parcial/assets/img2.png)
+
 Su principal problema rige en la mala comunicación con el cliente y la mala comunicación que existe en el equipo de desarrollo.
 
 <body>
@@ -54,12 +56,19 @@ Su principal problema rige en la mala comunicación con el cliente y la mala com
 </body>
 
 El software debe proveer la funcionalidad y desempeño requeridos por el usuario y debe ser mantenible, confiable y aceptable. Por lo tanto debe contar con los siguientes atributos.
+![]( Trabajo-del-Parcial/assets/img3.png)
+
+<body>
+    <h2> <p style="color:#0f64ad;">TIPOS DE SOFTWARE </p> </h2>
+</body>
+
 -	Sistemas de Información: orientados a la gestión de información en empresas para tratar sus operaciones o servicios de negocio. 
 -	Sistemas empotrados: residentes en memoria para controlar sistemas hardware. Varían desde sistemas simples (ej. Reproductor de CD) hasta sistemas complejos (ej. Maquinaria de una planta química).
 -	Software de ingeniería y científico: orientadas al cálculo.
 -	Sistemas expertos: basados en técnicas de IA Sistemas de computación personal: para uso personal o negocio (juegos, procesamiento de texto, · · ·). 
 -	Sistemas de tiempo real: monitorizar y analizar eventos.
 -	Software de sistema: software para servir a otros programas (SO, compiladores. . . ).
+
 
 <body>
     <h2> <p style="color:#0f64ad;">CICLO DE VIDA DE UN SOFTWARE </p> </h2>
