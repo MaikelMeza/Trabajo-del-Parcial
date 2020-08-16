@@ -97,9 +97,7 @@ Estas actividades varían dependiendo de la organización y del tipo de sistema 
 
 El modelo de proceso de software es una plantilla o un patrón que define el proceso por el cual se procesara el software, por lo tanto, es un apoyo para que el desarrollador pueda definir la estrategia que usara para desarrollar el Software. Los modelos de proceso de software se definen a continuación:
 
-<body>
-    <h3> <p style="color:#1fc9d0;">Modelos tradicionales  </p> </h3>
-</body>
+### Modelos tradicionales
 
 Formados por un conjunto de fases o actividades en las que no tienen en cuenta la naturaleza evolutiva del software. 
 
@@ -108,9 +106,7 @@ Formados por un conjunto de fases o actividades en las que no tienen en cuenta l
 - Basado en prototipos.
 - Desarrollo rápido de aplicaciones (RAD).
 
-<body>
-    <h3> <p style="color:#1fc9d0;">Modelos evolutivos </p> </h3>
-</body>
+### Modelos evolutivos 
 
 Son modelos que se adaptan a la evolución que sufren los requisitos del sistema en función del tiempo.
 
@@ -118,27 +114,21 @@ Son modelos que se adaptan a la evolución que sufren los requisitos del sistema
 - Iterativo.
 - En espiral.
 
-<body>
-    <h3> <p style="color:#1fc9d0;">Modelos para sistemas orientados a objetos </p> </h3>
-</body>
+### Modelos para sistemas orientados a objetos
 
 Modelos con un alto grado de iteratividad y solapamiento entre fases.
 
 - De agrupamiento.
 - Proceso Unificado.
 
-<body>
-    <h3> <p style="color:#1fc9d0;">Modelos basados en reutilización </p> </h3>
-</body>
+### Modelos basados en reutilización 
 
 Tienen en cuenta la reutilización sistemática del software.
 
 - Basado en componentes. 
 - Proceso Unificado.
 
-<body>
-    <h3> <p style="color:#1fc9d0;">Procesos agiles </p> </h3>
-</body>
+### Procesos agiles 
 
 Enfatizan el desarrollo rápido, ponen el énfasis en la programación
 
@@ -147,9 +137,7 @@ Enfatizan el desarrollo rápido, ponen el énfasis en la programación
 - Desarrollo de software adaptativo
 - Crystal
 
-<body>
-    <h3> <p style="color:#1fc9d0;">Modelos para sistemas web  </p> </h3>
-</body>
+### Modelos para sistemas web
 
 Creados específicamente para el desarrollo de aplicaciones web
 
