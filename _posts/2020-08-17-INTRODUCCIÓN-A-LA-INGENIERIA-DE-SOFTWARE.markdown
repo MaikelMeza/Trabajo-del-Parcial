@@ -1,5 +1,5 @@
 ---
-![](/Trabajo-del-Parcial/assets/img4.png)
+![](/Trabajo-del-Parcial/assets/img4.jpg)
 
 <body>
     <h2> <p style="color:#0f64ad;">¿QUE ES SOFTWARE? </p> </h2>
