@@ -1,7 +1,8 @@
 title: Trabajo del Parcial
 author: Meza Cedeño Maikel Danilo
 email: maikel.mezac@ug.edu.ec
-description: >Soy estudiande de la Universidad de Guayaquil, estoy en el primer semestre de la carrera de Ingenieria de Software. # this means to ignore newlines until "show_exerpts:"
+description: > # this means to ignore newlines until "show_exerpts:"
+ Soy estudiande de la Universidad de Guayaquil, estoy en el primer semestre de la carrera de Ingenieria de Software.
 show_excerpts: true # set to true to show excerpts on the homepage
 
 # Minima date format
