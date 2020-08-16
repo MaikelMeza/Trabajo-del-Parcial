@@ -1,5 +1,5 @@
 ---
-# -title: "INTRODUCCIÓN A LA INGENIERIA DE SOFTWARE"
+![](/Trabajo-del-Parcial/assets/img4.png)
 
 <body>
     <h2> <p style="color:#0f64ad;">¿QUE ES SOFTWARE? </p> </h2>
