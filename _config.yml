@@ -13,7 +13,7 @@ sass:
   sass_dir: _sass
 plainwhite:
   name: Meza Cedeño Maikel Danilo
-  tagline: Soy estudiande de la Universidad de Guayaquil, estoy en el primer semestre de la carrera de Ingenieria de Software.
+  tagline: Tengo 18 año,actualmente soy estudiande de la Universidad de Guayaquil y estoy cursando el primer semestre de la carrera de Ingenieria de Software.
   date_format: "%b %-d, %Y"
   sitemap: true # set to true to generate sitemap.xml content
   search: true # set to true to enable searchbar
